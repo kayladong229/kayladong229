@@ -1,6 +1,6 @@
 ### Hi there, I'm Kayla. 👋
 
-- 🎓 Recent grad at UC Berkeley Coding Bootcamp
+- 🎓 UC Berkeley Coding Bootcamp grad
 - 💻 Experienced with using React, JavaScript, Node.js, GraphQL and other programming languages
 - 🎹 Hobbies include music and gaming
 - 📫 How to reach me: kayladong.dev@gmail.com
